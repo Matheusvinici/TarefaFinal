@@ -1,5 +1,8 @@
 Controle de LEDs com Joystick e Display OLED
 
+Vídeo
+https://www.youtube.com/watch?v=u0rvOzgSFvA
+
 Descrição
 
 Este projeto utiliza um Raspberry Pi Pico para controlar LEDs com brilho variável baseado na posição de um joystick analógico. Além disso, um display OLED exibe os valores dos eixos X e Y do joystick em tempo real.
